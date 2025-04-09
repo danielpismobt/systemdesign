@@ -52,7 +52,7 @@ Cada microserviço deve emitir **eventos** após executar sua função. O **serv
 ## Stack Esperada (AWS Cloud-Native)
 
 - **GoLang** para todos os microsserviços
-- **Cloud Native - Amazon AWS
+- **Cloud Native** - Amazon AWS
 
 ---
 
